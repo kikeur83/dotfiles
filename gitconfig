@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = charlydubostbp@hotmail.fr
+	name = cd
